@@ -5,7 +5,6 @@ I'm a **PHP/Laravel backend developer** with 6+ years of experience building web
 - 💼 Currently building: reservation & ecommerce and other web based systems
 - 🛠 Tech stack: PHP | Laravel | MySQL | REST API | Git 
 - 📫 Contact: mahdinourbakhsh96@gmail.com
-- 🌍 Open to relocate to Europe (especially Netherlands 🇳🇱)
 
 ### 🔧 Projects I'm proud of:
 - 🛡 [Online Buing Insurance System](https://github.com/MahdiNb/Bimechee) – Buy insurances with Laravel
