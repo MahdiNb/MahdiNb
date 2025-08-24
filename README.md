@@ -7,6 +7,6 @@ I'm a **PHP/Laravel backend developer** with 6+ years of experience building web
 - 📫 Contact: mahdinourbakhsh96@gmail.com
 
 ### 🔧 Projects I'm proud of:
-- 🛡 [Online Buing Insurance System](https://github.com/MahdiNb/Bimechee) – Buy insurances with Laravel
+- 🛡 [Online Buying Insurance System](https://github.com/MahdiNb/Bimechee) – Buy insurances with Laravel
 - 🏨 [Hotel Reservation System](https://github.com/MahdiNb/Bomcheh) – Real-time seat/room booking with Laravel
 - 🛒 [Hampa Tire E-commerce](https://github.com/MahdiNb/Hampaa) – Hampa E-commerce Online shop with Laravel
